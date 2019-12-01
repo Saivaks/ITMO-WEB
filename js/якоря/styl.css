@@ -1,0 +1,9 @@
+
+.arc{
+  background-image: url('icons.png');
+  width: 210px;
+  background-repeat: no-repeat;
+  background-size: 20px;
+  border-radius: 10px;
+  float :left;
+}
