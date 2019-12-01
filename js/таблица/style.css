@@ -1,0 +1,16 @@
+ 
+            #Functions {
+                display: none;
+            }
+            #Functions div {
+                display: inline-block;
+                border: 1px solid #000;
+                border-radius: 5px;
+            }
+            #tableWrap table {
+                border-collapse: collapse;
+            }
+            #tableWrap td {
+                border: 2px solid #000;
+            }
+     
