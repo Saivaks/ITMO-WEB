@@ -73,7 +73,7 @@
             let tableCode = `<table><tbody>`;
             for (let row = 0; row < rows; ++row) {
                 tableCode += `<tr>`;
-                for (let col = 0; col < cols; ++col) {
+            for (let col = 0; col < cols; ++col) {
                     tableCode += `<td id="td${row},${col}"><form><input type="textarea" id="f${row},${col}"><input type="button" onclick="changedata(${row}, ${col})" value="Save"></form></td>`;
                 }
                 tableCode += `</tr>`;
